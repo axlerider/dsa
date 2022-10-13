@@ -22,4 +22,5 @@ for nwb,n_b in zip(output , biases):
     layers_outputnew.append(nwb+n_b)
 print(layers_outputnew)
 
+print('suyash')
 
